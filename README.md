@@ -15,6 +15,10 @@ Welcome to **JSON Schema Builder** – a modern, interactive tool for visually d
 
 ---
 
+
+
+---
+
 ## 📖 Definitions
 
 - **Field:** A key-value pair in the schema, with type and required status.
