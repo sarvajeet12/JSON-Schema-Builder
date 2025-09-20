@@ -1,4 +1,4 @@
-import React from "reac";
+import React from "react";
 
 const Field = ({ data, onChange, onDelete }) => {
   const handleKeyChange = (e) => onChange({ ...data, key: e.target.value });
